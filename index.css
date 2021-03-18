@@ -1,4 +1,4 @@
-#clock {
+#clock_area {
   background-color: lightpink;
   height: 100%;
   width: 100%;
@@ -7,7 +7,16 @@
   align-items: center;
 }
 
-#time {
+#date_area {
+  background-color: lightyellow;
+  height: 200px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#time_area {
   background-color: lightsalmon;
   height: 200px;
   width: 350px;
