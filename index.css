@@ -28,7 +28,7 @@
 
 #show_hours {
   width: 500px;
-  margin-top: 30px;
+  margin-top: 50px;
   display: flex;
   justify-content: space-between;
 }
